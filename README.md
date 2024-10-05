@@ -23,7 +23,7 @@ This project highlights issues like plagiarism, copyright infringement, and the 
 ### Google Colab Notebooks:
 - [RNN Model](https://github.com/anamika8/Exploration-of-Generative-Models-Through-Lyric-Synthesis/blob/main/RNN_baseline_final.ipynb)
 - [GPT-2 Model](https://github.com/anamika8/Exploration-of-Generative-Models-Through-Lyric-Synthesis/blob/main/Fine_Tune_GPT2_HuggingFace.ipynb)
-- [Falcon 7B Model](https://github.com/anamika8/Exploration-of-Generative-Models-Through-Lyric-Synthesis/blob/main/Simplified_McIntosh_Wasson_Falcon_7B_Instruct_QLoRA.ipynb)
+- [Falcon 7B Model](https://github.com/anamika8/Exploration-of-Generative-Models-Through-Lyric-Synthesis/blob/main/Simplified_Falcon_7B_Instruct_QLoRA.ipynb)
 
 
 
